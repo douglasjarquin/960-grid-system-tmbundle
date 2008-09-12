@@ -4,8 +4,8 @@
 
 The 960 Grid System TextMate Bundle to aid in rapid development with the 960 Grid System, modified version.
 
-* 960 Grid System Website: http://960.gs/
-* Modified version on Github: http://github.com/douglasjarquin/960-grid-system/
+* [960 Grid System](http://960.gs/)
+* [960 Grid System: Modified version on Github](http://github.com/douglasjarquin/960-grid-system/)
 
 ## Installation
 
